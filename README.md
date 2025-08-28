@@ -81,44 +81,12 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 🗂️ Project Structure
 **Backend – Spring Boot**
 
-NotificationEngine/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com.sasken.NotificationEngine/
-│   │   │       ├── config/
-│   │   │       │   └── DataLoader.java
-│   │   │       ├── controller/
-│   │   │       │   └── TrainingController.java
-│   │   │       ├── model/
-│   │   │       │   └── Training.java
-│   │   │       ├── repository/
-│   │   │       │   └── TrainingRepository.java
-│   │   │       ├── service/
-│   │   │       │   ├── NotificationService.java
-│   │   │       │   └── EmailService.java
-│   │   │       └── NotificationEngineApplication.java
-│   │   └── resources/
-│   │       ├── application.properties
-│   │       ├── static/
-│   │       └── templates/
-└── target/
+<img width="567" height="581" alt="image" src="https://github.com/user-attachments/assets/8babc57c-3040-4ee0-994f-c58224511d46" />
+
 
 **Frontend – React (Vite)**
-notification-engine/
-├── public/
-│   ├── sasken_logo.png
-│   └── vite.svg
-├── src/
-│   ├── assets/
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
+<img width="273" height="380" alt="image" src="https://github.com/user-attachments/assets/edcf4e96-7329-4362-aaff-f91a1dbbc677" />
+
 
 🚀 How to Run the Project
 🧩 Backend (Spring Boot)
