@@ -83,6 +83,7 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 
 <img width="567" height="581" alt="image" src="https://github.com/user-attachments/assets/8babc57c-3040-4ee0-994f-c58224511d46" />
 
+🗂️ Project Structure
 
 **Frontend – React (Vite)**
 <img width="273" height="380" alt="image" src="https://github.com/user-attachments/assets/edcf4e96-7329-4362-aaff-f91a1dbbc677" />
