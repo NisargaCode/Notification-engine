@@ -78,15 +78,6 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 ✅ Use port 587 for TLS encryption.
 ✅ Make sure to enable "Less secure app access" or use an App Password from your Google account.
 
-🗂️ Project Structure
-**Backend – Spring Boot**
-
-<img width="567" height="581" alt="image" src="https://github.com/user-attachments/assets/8babc57c-3040-4ee0-994f-c58224511d46" />
-
-
-**Frontend – React (Vite)**
-<img width="273" height="380" alt="image" src="https://github.com/user-attachments/assets/edcf4e96-7329-4362-aaff-f91a1dbbc677" />
-
 
 🚀 How to Run the Project
 🧩 Backend (Spring Boot)
